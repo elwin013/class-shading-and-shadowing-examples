@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App 3 - run uber jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/example3/example3-app/target/example3-app.jar" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="example3 [package]" run_configuration_type="MavenRunConfiguration" />
+    </method>
+  </configuration>
+</component>
