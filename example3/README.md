@@ -11,7 +11,7 @@ method).
 
 The main change is in `pom.xml` of `example3-module` - the shade plugin:
 
-```
+```xml
 <build>
     <plugins>
         <plugin>
