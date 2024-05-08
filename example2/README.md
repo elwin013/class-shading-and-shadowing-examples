@@ -36,5 +36,4 @@ they are used in `net.codeer.example2.pkg.Serializer` class. Class from that ver
 `disableJdkUnsafe`.
 
 Later in class `net.codeer.example2.serializer.FancySerializer` from the module with version 2.10.1 of GSON code is
-using
-that method. But the newer version of the class is not loaded (as it is already loaded).
+using that method. But the newer version of the class is not loaded (as it is already loaded).
