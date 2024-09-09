@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App 4" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="net.codeer.example4.App" />
+    <module name="example4" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="net.codeer.example4.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -23,3 +23,7 @@ Example of usage `maven-shade-plugin` to overcome issue with two different versi
 `NoSuchMethodError`. Based on the Example 2.
 
 Detailed description is in [example3/README.md](example3/README.md).
+
+### Example 4 - show class loaders for different  classes
+
+Print class loaders for 4 classes: App, Gson, Date (from java.sql) and Instant. Shows different class loaders used.
