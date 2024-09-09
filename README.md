@@ -1,7 +1,8 @@
 # Class shading and shadowing - examples
 
-Examples for presentation 'Shadowing i shading klas w Javie - jak je wykorzystać na naszą korzyść'
-('Shadowing and Shading classes in Java - how to use them to our advantage')
+Examples from presentations:
+* 'Bringing shadows to light - how shadowing and shading Java classes can save us a headache'
+* 'Shadowing i shading klas w Javie - jak je wykorzystać na naszą korzyść' ('Shadowing and Shading classes in Java - how to use them to our advantage').
 
 ## Examples
 
