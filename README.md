@@ -28,3 +28,7 @@ Detailed description is in [example3/README.md](example3/README.md).
 ### Example 4 - show class loaders for different  classes
 
 Print class loaders for 4 classes: App, Gson, Date (from java.sql) and Instant. Shows different class loaders used.
+
+### Example 5 - order of dependencies matters
+
+Example of an app that has in the dependency tree two different versions of GSON.
